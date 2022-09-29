@@ -1,0 +1,3 @@
+ali false
+mehmet  false
+baran false

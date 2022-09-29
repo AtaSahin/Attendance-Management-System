@@ -1,0 +1,7 @@
+ata true
+ahmet true
+sarı true
+ss true
+jh true
+
+
